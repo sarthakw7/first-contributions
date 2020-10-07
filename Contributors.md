@@ -597,6 +597,7 @@
 - [Neuroxic](https://github.com/Neuroxic)
 - [Fausan Asharaf](https://github.com/fausan123)
 - [Nikhil Kaushal](https://github.com/nkaushal99)
+- Hugsy 
 - [0708Suzzie](https://github.com/0708Suzzie)
 - [Yash Shukla](https://github.com/Yash1256)
 - [Ranjan Das](https://github.com/dasxran)
